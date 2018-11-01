@@ -2,7 +2,7 @@
 
 #=== Change in here!!!
 GIT_URL=https://git-codecommit.us-west-1.amazonaws.com/v1/repos/wordpress_client
-GIT_CURRENT_BRANCH=master
+GIT_CURRENT_BRANCH=develop
 #=====================
 
 #=== Script Inputs
